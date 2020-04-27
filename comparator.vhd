@@ -5,7 +5,7 @@ entity comparator is
       A: in std_logic_vector(20 downto 0);
 		B: in std_logic_vector(20 downto 0);
       greater, equal  : out std_logic
-   );;
+   );
 end comparator ;
 architecture bhv of comparator is
 begin
