@@ -12,4 +12,4 @@ d<=(((not q2) and (not q0)) or (not q2 and q1) or (q2 and (not q1) and q0) or (q
 e<=((not q2 and (not q0))or (q1 and (not q0))); 
 f<=((not q1 and (not q0))or (q2 and (not q1))or (q2 and (not q0))or q3);
 g<=((not q2 and q1)or(q2 and (not q1))or q3 or(q2 and (not q0)));
-end architecture operation;
+end architecture operation;.
